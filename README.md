@@ -67,6 +67,6 @@ Ahora sí, vamos a los resultados:
 
 ❓ Consideran la Caña de Azucar un alimento?? O un cultivo del cual derivan alimentos??
 
-Por el momento espero les haya gustado y ¡Los leo en comentarios! 👇🙂 
+Espero les haya gustado y cualquier duda me contactan. 🙂 
 
 hashtag#DataAnalytics hashtag#Python hashtag#Agricultura hashtag#AgTech hashtag#FAO hashtag#Pandas hashtag#Matplotlib hashtag#DataVisualization hashtag#Insights
