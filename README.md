@@ -1,5 +1,9 @@
+
 # producción-mundial-de-alimentos
-analisis sobre los alimentos mas producidos a nivel mundial
+>> objetivo del proyecto: analizar e identificar los alimentos mas producidos a nivel mundial.
+
+
+# breve reflexión:
 
 🌾 La alimentación sentó las bases de la civilización que hoy vivimos...
 
@@ -21,13 +25,15 @@ Si se animan, los leo en los comentarios y la próxima semana compartiré los da
 
 
 
-🔹 Fuente de los datos
+🗂️ Fuente de Datos
 Descargué un dataset de la FAO que contiene información confiable y actualizada hasta año 2023, con mas de 4M de registros.
 
-🔹 Herramientas utilizadas
+.
+
+🛠️  Herramientas utilizadas
 Inicialmente probé Power BI, pero debido al tamaño del archivo, el procesamiento era demasiado lento. Opté por Python y trabajé con Pandas, Numpy y Matplotlib en VS Code + Jupyter Notebook, y la diferencia en rendimiento fue notable.
 
-🔹 Limpieza y preparación de datos
+🔍 Limpieza y preparación de datos
 La etapa más larga fue preparar el dataset para mi análisis. Entre los pasos clave:
 🔸 Familiarizarme con términos del sector agrícola para interpretar correctamente los datos.
 🔸 Eliminé columnas innecesarias y filtré solo países (descartando zonas geográficas).
@@ -36,6 +42,7 @@ La etapa más larga fue preparar el dataset para mi análisis. Entre los pasos c
 🔸 Normalicé unidades y validé formatos correctos.
 
 
+📈 Resultados Principales
 Ahora sí, vamos a los resultados:
 
 ✅ ¿Cuál fue el alimento más producido a nivel mundial? 
