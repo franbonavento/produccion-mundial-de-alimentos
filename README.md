@@ -29,17 +29,21 @@ Si se animan, los leo en los comentarios y la próxima semana compartiré los da
 
 Descargué un dataset de la FAO que contiene información confiable y actualizada hasta año 2023, con mas de 4M de registros.
 
-.
 
 🛠️  Herramientas utilizadas
 Inicialmente probé Power BI, pero debido al tamaño del archivo, el procesamiento era demasiado lento. Opté por Python y trabajé con Pandas, Numpy y Matplotlib en VS Code + Jupyter Notebook, y la diferencia en rendimiento fue notable.
 
 🔍 Limpieza y preparación de datos
 La etapa más larga fue preparar el dataset para mi análisis. Entre los pasos clave:
+
 🔸 Familiarizarme con términos del sector agrícola para interpretar correctamente los datos.
+
 🔸 Eliminé columnas innecesarias y filtré solo países (descartando zonas geográficas).
+
 🔸 Detecté y analicé un 6% de valores faltantes, concluyendo que no afectaban el análisis.
+
 🔸 Quité categorías de alimentos para quedarme solo con los productos finales.
+
 🔸 Normalicé unidades y validé formatos correctos.
 
 ---------------------------------------------------------------------------------------------------------------
