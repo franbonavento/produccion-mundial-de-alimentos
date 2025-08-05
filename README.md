@@ -22,7 +22,7 @@ Antes de compartir los resultados, me gustaría saber qué opinan ustedes:
 👉 ¿Qué países imaginan en el top 10?
 Si se animan, los leo en los comentarios y la próxima semana compartiré los datos, gráficos y análisis. 🚜📊
 
-
+-------------------------------------------------------------------------------------------------------------
 
 
 🗂️ Fuente de Datos
@@ -41,6 +41,7 @@ La etapa más larga fue preparar el dataset para mi análisis. Entre los pasos c
 🔸 Quité categorías de alimentos para quedarme solo con los productos finales.
 🔸 Normalicé unidades y validé formatos correctos.
 
+---------------------------------------------------------------------------------------------------------------
 
 📈 Resultados Principales
 Ahora sí, vamos a los resultados:
