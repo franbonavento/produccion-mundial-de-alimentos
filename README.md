@@ -58,7 +58,7 @@ Ahora sí, vamos a los resultados:
  ➡️ Brasil, India, China (top 3)
 
 ✅ ¿Cuántas hectáreas de tierra destinaron a su cultivo?
- ➡️ Brasil destinó 10 millones de hectáreas al cultivo de caña de azucar, lo que equivale aproximadamente a:
+ ➡️ Brasil destinó 10 millones de hectáreas al cultivo de caña de azucar, lo que equivale aproximadamente a:  
  🌍 -El tamaño de Corea del Sur  
  2X -El doble de la superficie de Suiza.  
  🏙️ -500 veces la Ciudad de Buenos Aires.  
