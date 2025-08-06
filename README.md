@@ -54,6 +54,8 @@ Ahora sí, vamos a los resultados:
 ✅ ¿Cuál fue el alimento más producido a nivel mundial? 
  ➡️ Caña de Azucar
 
+ ![1739129584568](1739129584568.jpg)
+
 ✅ ¿Qué países lideraron su producción? 
  ➡️ Brasil, India, China (top 3)
 
