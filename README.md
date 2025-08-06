@@ -1,6 +1,6 @@
 
 # Producción mundial de alimentos.
-> objetivo del proyecto: analizar e identificar los alimentos mas producidos a nivel mundial. <
+> objetivo del proyecto: analizar e identificar los alimentos mas producidos a nivel mundial. 
 
 
 ## breve reflexión:
