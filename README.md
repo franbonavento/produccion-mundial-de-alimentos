@@ -48,8 +48,8 @@ La etapa más larga fue preparar el dataset para mi análisis. Entre los pasos c
 
 ---------------------------------------------------------------------------------------------------------------
 
-📈 Resultados Principales
-Ahora sí, vamos a los resultados:
+📈 # Resultados Principales
+📊 Les dejo los gráficos con más detalles y comentarles que voy a seguir indagando en estos datos y publicando insights que se desprenden de estos hallazgos iniciales. 
 
 ✅ ¿Cuál fue el alimento más producido a nivel mundial? 
  ➡️ Caña de Azucar
@@ -59,11 +59,15 @@ Ahora sí, vamos a los resultados:
 ✅ ¿Qué países lideraron su producción? 
  ➡️ Brasil, India, China (top 3)
 
+ ![2](Images/1739129584530.jpg)
+
 ✅ ¿Cuántas hectáreas de tierra destinaron a su cultivo?
  ➡️ Brasil destinó 10 millones de hectáreas al cultivo de caña de azucar, lo que equivale aproximadamente a:  
  🌍 -El tamaño de Corea del Sur  
  2X -El doble de la superficie de Suiza.  
  🏙️ -500 veces la Ciudad de Buenos Aires.  
+
+  ![3](Images/1739129584675.jpg)
 
 📊 Les dejo los gráficos con más detalles y comentarles que voy a seguir indagando en estos datos y publicando insights que se desprenden de estos hallazgos iniciales. 
 
