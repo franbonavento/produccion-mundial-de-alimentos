@@ -59,9 +59,9 @@ Ahora sí, vamos a los resultados:
 
 ✅ ¿Cuántas hectáreas de tierra destinaron a su cultivo?
  ➡️ Brasil destinó 10 millones de hectáreas al cultivo de caña de azucar, lo que equivale aproximadamente a:
- 🌍 -El tamaño de Corea del Sur
- 2X -El doble de la superficie de Suiza.
- 🏙️ -500 veces la Ciudad de Buenos Aires.
+ 🌍 -El tamaño de Corea del Sur  
+ 2X -El doble de la superficie de Suiza.  
+ 🏙️ -500 veces la Ciudad de Buenos Aires.  
 
 📊 Les dejo los gráficos con más detalles y comentarles que voy a seguir indagando en estos datos y publicando insights que se desprenden de estos hallazgos iniciales. 
 
